@@ -25,7 +25,6 @@ class MainApp {
             console.log(`### => http://localhost:${PORT}`)
         })
     }
-
 }
 
 const app = new MainApp()
